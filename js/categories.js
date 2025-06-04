@@ -66,5 +66,4 @@ export const addCategory = async (categoryData) => {
     }
 };
 
-// Exportar funciones al scope global
 window.showCategoryDetail = showCategoryDetail;
