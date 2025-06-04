@@ -4,13 +4,16 @@ Jose Julian Pedraza192428
 Camilo Ernesto Amaya 192265
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b13a464b-88dd-41bd-8ef7-11c6d885ff7d)
+
 
 -------------------------------------------------
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/79cef5f3-fe2c-42f4-a638-d674d7dd227a)
+
 
 -------------------------------------------------
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/c445fc3a-5623-49ed-982d-5e83f14df63f)
+
 
 -------------------------------------------------
 ![image](https://github.com/user-attachments/assets/1e008701-47b3-484b-b307-3b807b52704b)
